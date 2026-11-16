@@ -4,9 +4,6 @@
 
 - Claude (Anthropic), Claude Sonnet 5.5, used in the claude.ai chat interface.
 
-## Conversation links
-
-- Link 1: <PASTE THE SHARE LINK OF THE CLAUDE CONVERSATION HERE>
 
 ## What I used them for
 
